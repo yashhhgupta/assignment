@@ -1,0 +1,59 @@
+.sidebar {
+    width: 280px;
+    background-color: white;
+    color: grey;
+    flex:1;
+    /* Add additional styles as needed */
+}
+
+.logo {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    /* Add additional styles as needed */
+}
+
+.nav {
+    margin-top: 20px;
+    margin-left: 25px;
+    /* text-align: center; */
+    /* font-size: 20px; */
+    /* Add additional styles as needed */
+}
+
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    margin-bottom: 10px;
+}
+
+.nav a {
+    display: block;
+    padding: 10px;
+    color: grey;
+    text-decoration: none;
+    /* Add additional styles as needed */
+}
+
+.nav a:hover {
+    background-color: #f4f4f7;
+    /* Add additional styles as needed */
+}
+
+.bottom{
+    margin-top: 150px;
+    font-size: 20px;
+}
+
+.bottom ul{
+    list-style-type: none;
+}
+
+.name{
+    display: flex;
+}
